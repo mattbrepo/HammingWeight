@@ -1,7 +1,7 @@
 # HammingWeight
 Hamming weight algorithm test.
 
-**Language: C++**
+**Language: C/C++**
 
 **Start: 2011**
 
